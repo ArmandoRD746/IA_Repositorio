@@ -151,8 +151,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SteeringAgent
   currentBehavior: 4
-  activationKey: 45
-  targetTransform: {fileID: 0}
+  activationKey: 36
+  targetTransform: {fileID: 281355706}
   targetAgent: {fileID: 1557872672}
   maxSpeed: 5
   maxForce: 10
@@ -1216,8 +1216,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SteeringAgent
   currentBehavior: 1
-  activationKey: 42
-  targetTransform: {fileID: 0}
+  activationKey: 41
+  targetTransform: {fileID: 940447161}
   targetAgent: {fileID: 0}
   maxSpeed: 5
   maxForce: 10
@@ -1310,8 +1310,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SteeringAgent
   currentBehavior: 3
-  activationKey: 44
-  targetTransform: {fileID: 0}
+  activationKey: 32
+  targetTransform: {fileID: 281355706}
   targetAgent: {fileID: 1557872672}
   maxSpeed: 5
   maxForce: 10
@@ -1394,7 +1394,7 @@ Transform:
   m_GameObject: {fileID: 1557872671}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.73159, y: 0.57878, z: 0}
+  m_LocalPosition: {x: 4.23, y: -0.87, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1651,9 +1651,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SteeringAgent
   currentBehavior: 0
-  activationKey: 41
+  activationKey: 37
   targetTransform: {fileID: 940447161}
-  targetAgent: {fileID: 0}
+  targetAgent: {fileID: 1557872672}
   maxSpeed: 5
   maxForce: 10
   mass: 1
@@ -1819,7 +1819,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SteeringAgent
   currentBehavior: 2
-  activationKey: 43
+  activationKey: 19
   targetTransform: {fileID: 0}
   targetAgent: {fileID: 0}
   maxSpeed: 5

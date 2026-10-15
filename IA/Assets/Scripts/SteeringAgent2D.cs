@@ -45,11 +45,11 @@ public class SteeringAgent2D : MonoBehaviour
     void Update()
     {
         // Sistema de activación independiente con el nuevo Input System
-        if (Keyboard.current != null && Keyboard.current[activationKey].wasPressedThisFrame)
-        {
-            isActive = !isActive;
-            SetAgentActive(isActive);
-        }
+        //if (Keyboard.current != null && Keyboard.current[activationKey].wasPressedThisFrame)
+        //{
+        //    isActive = !isActive;
+        //    SetAgentActive(isActive);
+        //}
 
         if (!isActive) return;
 
